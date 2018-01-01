@@ -1,17 +1,17 @@
 import List from '../src/List.js';
 
-describe('to do list test', () => {
+describe('To Do List Test', () => {
 
     describe('add item', () => {
         test('should add item into the list', () => {
-            let app = new List();
+            let list = new List();
 
-            expect(app.list).toEqual([]);
+            expect(list.items).toEqual([]);
 
-            app.add('apple');
+            list.add('apple');
 
-            expect(app.list).toEqual(['apple']);
+            expect(list.items).toEqual(['apple']);
         })
-    })
+    });
 
-})
+});

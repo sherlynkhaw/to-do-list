@@ -1,0 +1,259 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Adding New Item to the List 1`] = `
+<div>
+  <div
+    className="MuiPaper-root-2 MuiPaper-shadow2-6 MuiPaper-rounded-3 ToDoList-card-1"
+  >
+    <div
+      className="MuiCardContent-root-29"
+    >
+      <ul
+        className="MuiList-root-30 MuiList-padding-31"
+      />
+    </div>
+    <div
+      className="MuiCardActions-root-34"
+    >
+      <div
+        className="MuiFormControl-root-36 MuiFormControl-marginNormal-37 MuiCardActions-action-35"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        required={false}
+      >
+        <label
+          className="MuiFormLabel-root-46 MuiInputLabel-root-40 MuiInputLabel-formControl-41 MuiInputLabel-animated-44"
+          data-shrink={false}
+          htmlFor="listNewItem"
+        >
+          New Item
+        </label>
+        <div
+          className="MuiInput-root-50 MuiInput-formControl-51 MuiInput-inkbar-52 MuiInput-underline-56"
+          onBlur={[Function]}
+          onFocus={[Function]}
+        >
+          <input
+            autoComplete={undefined}
+            autoFocus={undefined}
+            className="MuiInput-input-59 MuiInput-inputSingleline-62"
+            defaultValue={undefined}
+            disabled={false}
+            id="listNewItem"
+            name={undefined}
+            onChange={[Function]}
+            onKeyDown={undefined}
+            onKeyUp={undefined}
+            placeholder={undefined}
+            readOnly={undefined}
+            required={undefined}
+            rows={undefined}
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+      <button
+        className="MuiButtonBase-root-80 MuiButton-root-65 MuiButton-raised-72 MuiCardActions-action-35"
+        disabled={false}
+        id="addButton"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="button"
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label-67"
+        >
+          Add
+        </span>
+        <span
+          className="MuiTouchRipple-root-82"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Adding New Item to the List 2`] = `
+<div>
+  <div
+    className="MuiPaper-root-2 MuiPaper-shadow2-6 MuiPaper-rounded-3 ToDoList-card-1"
+  >
+    <div
+      className="MuiCardContent-root-29"
+    >
+      <ul
+        className="MuiList-root-30 MuiList-padding-31"
+      />
+    </div>
+    <div
+      className="MuiCardActions-root-34"
+    >
+      <div
+        className="MuiFormControl-root-36 MuiFormControl-marginNormal-37 MuiCardActions-action-35"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        required={false}
+      >
+        <label
+          className="MuiFormLabel-root-46 MuiInputLabel-root-40 MuiInputLabel-formControl-41 MuiInputLabel-animated-44"
+          data-shrink={false}
+          htmlFor="listNewItem"
+        >
+          New Item
+        </label>
+        <div
+          className="MuiInput-root-50 MuiInput-formControl-51 MuiInput-inkbar-52 MuiInput-underline-56"
+          onBlur={[Function]}
+          onFocus={[Function]}
+        >
+          <input
+            autoComplete={undefined}
+            autoFocus={undefined}
+            className="MuiInput-input-59 MuiInput-inputSingleline-62"
+            defaultValue={undefined}
+            disabled={false}
+            id="listNewItem"
+            name={undefined}
+            onChange={[Function]}
+            onKeyDown={undefined}
+            onKeyUp={undefined}
+            placeholder={undefined}
+            readOnly={undefined}
+            required={undefined}
+            rows={undefined}
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+      <button
+        className="MuiButtonBase-root-80 MuiButton-root-65 MuiButton-raised-72 MuiCardActions-action-35"
+        disabled={false}
+        id="addButton"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="button"
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label-67"
+        >
+          Add
+        </span>
+        <span
+          className="MuiTouchRipple-root-82"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Adding New Item to the List 3`] = `
+<div>
+  <div
+    className="MuiPaper-root-2 MuiPaper-shadow2-6 MuiPaper-rounded-3 ToDoList-card-1"
+  >
+    <div
+      className="MuiCardContent-root-29"
+    >
+      <ul
+        className="MuiList-root-30 MuiList-padding-31"
+      />
+    </div>
+    <div
+      className="MuiCardActions-root-34"
+    >
+      <div
+        className="MuiFormControl-root-36 MuiFormControl-marginNormal-37 MuiCardActions-action-35"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        required={false}
+      >
+        <label
+          className="MuiFormLabel-root-46 MuiInputLabel-root-40 MuiInputLabel-formControl-41 MuiInputLabel-animated-44"
+          data-shrink={false}
+          htmlFor="listNewItem"
+        >
+          New Item
+        </label>
+        <div
+          className="MuiInput-root-50 MuiInput-formControl-51 MuiInput-inkbar-52 MuiInput-underline-56"
+          onBlur={[Function]}
+          onFocus={[Function]}
+        >
+          <input
+            autoComplete={undefined}
+            autoFocus={undefined}
+            className="MuiInput-input-59 MuiInput-inputSingleline-62"
+            defaultValue={undefined}
+            disabled={false}
+            id="listNewItem"
+            name={undefined}
+            onChange={[Function]}
+            onKeyDown={undefined}
+            onKeyUp={undefined}
+            placeholder={undefined}
+            readOnly={undefined}
+            required={undefined}
+            rows={undefined}
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+      <button
+        className="MuiButtonBase-root-80 MuiButton-root-65 MuiButton-raised-72 MuiCardActions-action-35"
+        disabled={false}
+        id="addButton"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="button"
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label-67"
+        >
+          Add
+        </span>
+        <span
+          className="MuiTouchRipple-root-82"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

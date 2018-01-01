@@ -1,17 +1,28 @@
 import React, {Component} from 'react';
+import ToDoList from './ToDoList';
+import Grid from "material-ui/Grid";
+import {withStyles} from "material-ui/styles";
+
+const styles = (theme) => ({
+    container: {
+        display: "flex",
+        flexWrap: "wrap",
+
+    },
+});
 
 class App extends Component {
 
-
     render() {
+        //const { classes } = this.props;
         return (
-            <div className="App">
-                <header className="App-header">
-                    <h1 className="App-title">Welcome to React</h1>
-                </header>
+            <div>
+                <Grid spacing={0} container className="grid" alignItems="center" direction="column">
+                <ToDoList/>
+                </Grid>
             </div>
         );
     }
 }
 
-export default App;
+export default withStyles(styles)(App);
